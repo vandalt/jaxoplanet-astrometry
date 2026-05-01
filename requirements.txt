@@ -1,0 +1,10 @@
+jaxoplanet
+astropy
+numpy
+matplotlib
+numpyro
+numpyro-ext
+corner
+arviz[zarr,matplotlib]
+git+https://github.com/dfm/corner.py.git
+jaxopt
